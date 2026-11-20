@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">ATHUL A S — AI and machine learning engineer</title>
+<desc id="desc">A charcoal and orange banner for an AI and machine learning portfolio.</desc>
+<rect width="1200" height="300" rx="18" fill="#191919"/>
+<path d="M0 239H1200M880 0V300M1040 0V300" fill="none" stroke="#383838" stroke-width="1"/>
+<rect x="44" y="42" width="38" height="38" rx="9" fill="#ffad78"/>
+<path d="M54 68l9-16 9 16m-14-5h10" fill="none" stroke="#191919" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="96" y="58" fill="#ffad78" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="4">AI / ML ENGINEER</text>
+<text x="42" y="151" fill="#f5f5f2" font-family="Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">ATHUL A S</text>
+<text x="45" y="194" fill="#c8c8c8" font-family="Arial, sans-serif" font-size="21">Turning data into useful, real-world experiences.</text>
+<text x="45" y="273" fill="#929292" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">MACHINE LEARNING  /  INTELLIGENT APPLICATIONS  /  BACKEND</text>
+<g fill="none" stroke="#ffad78" stroke-width="1.5" opacity=".75"><circle cx="998" cy="133" r="83"/><circle cx="998" cy="133" r="56"/><circle cx="998" cy="133" r="28"/><path d="M915 133h166M998 50v166M939 74l118 118M1057 74L939 192"/></g>
+<g fill="#ffad78"><circle cx="998" cy="50" r="4"/><circle cx="1057" cy="192" r="4"/><circle cx="942" cy="133" r="4"/><circle cx="1026" cy="133" r="4"/></g>
+</svg>
+
